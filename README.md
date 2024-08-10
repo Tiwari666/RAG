@@ -38,7 +38,7 @@ Traditional NLP models, especially those that are purely generative, often gener
 
 In contrast:RAG dynamically retrieves information each time a query is presented. This means it can adapt to new information and queries more flexibly, pulling the most relevant and recent data before generating a response.
 
-4. Enhanced Accuracy and Relevance
+3. Enhanced Accuracy and Relevance
 
 Traditional models might struggle with questions that require updated or specialized knowledge because they rely on the knowledge they were trained on, which can become outdated.
 
